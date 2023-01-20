@@ -1,0 +1,18 @@
+.option::before {
+    content: 'dfsd';
+    height: 10px;
+    width: 10px;
+    color: #FF3477;
+    background-color: #FF3477;
+}
+
+.input {
+    width: 200px !important;
+    height: 57px !important;
+}
+
+.select-button {
+    width: 200px;
+    height: 34px;
+    display: flex;
+}
